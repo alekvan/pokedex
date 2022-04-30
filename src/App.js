@@ -50,7 +50,7 @@ function App() {
   return (
     <div className='App'>
       <div className='categories-buttons'>
-        <h2>Filter by type</h2>
+        <h1>Filter by type</h1>
         <ButtonType
           pokeTypes={pokeList}
           buttonColors={colors}

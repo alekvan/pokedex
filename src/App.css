@@ -1,6 +1,9 @@
 .App {
   display: flex;
   text-align: center;
+  background-image: url('https://wallpaperaccess.com/full/20997.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .App-logo {
